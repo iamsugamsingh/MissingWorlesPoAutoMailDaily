@@ -1,0 +1,16 @@
+{
+  "web": {
+    "client_id": "597050382013-vuv22a0srqpb1dmspq8ad61t4829ktps.apps.googleusercontent.com",
+    "project_id": "involuted-smile-295206",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "mhEU22KPnGGPicY49SG6LPUP",
+    "redirect_uris": [
+      "http://localhost/authorize/"
+    ],
+    "javascript_origins": [
+      "https://localhost:44336"
+    ]
+  }
+}
